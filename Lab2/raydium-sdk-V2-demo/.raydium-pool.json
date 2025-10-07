@@ -1,0 +1,20 @@
+{
+  "txId": "3qNoo6pxDtQ2K2J1ompvTqsFJrXfepSuftbidf5QYAjzjezdCKa16ajAX2GYG4JrMkhzQb3WGxWytsHrBFCf82Jr",
+  "poolId": "BL6FpJpdF92TFkqnH78ukqqM4BP4dhZGBHyS4hCvtmLR",
+  "vaultA": "3YxTww4AudMvBcDgqARchqUbdUYB66pVHJdzXCwhqfcz",
+  "vaultB": "91WJd9AacQ21zxuyEDSrzWN7JwQgpMz3auskaD5QFMXj",
+  "address": {
+    "poolId": "BL6FpJpdF92TFkqnH78ukqqM4BP4dhZGBHyS4hCvtmLR",
+    "configId": "5MxLgy9oPdTC3YgkiePHqr3EoCRD9uLVYRQS2ANAs7wy",
+    "authority": "CXniRufdq5xL8t8jZAPxsPZDpuudwuJSPWnbcD5Y5Nxq",
+    "lpMint": "FEUhFvtNUcQtpmCTdheYHeWGh3K14NtRSPa6T31sNYkx",
+    "vaultA": "3YxTww4AudMvBcDgqARchqUbdUYB66pVHJdzXCwhqfcz",
+    "vaultB": "91WJd9AacQ21zxuyEDSrzWN7JwQgpMz3auskaD5QFMXj",
+    "observationId": "62HBGDKQyv6gVBYevco32fdoQgMpt5bTgbF2Pawqy283",
+    "mintA": "[object Object]",
+    "mintB": "[object Object]",
+    "programId": "DRaycpLY18LhpbydsBWbVJtxpNv9oXPgjRSfpF2bWpYb",
+    "poolFeeAccount": "3oE58BKVt8KuYkGxx8zBojugnymWmBiyafWgMrnb6eYy",
+    "feeConfig": "[object Object]"
+  }
+}
